@@ -12,6 +12,6 @@ setup(
   description='Useful towel-related stuff.',
   long_description=open('README.rst').read(),
   install_requires=[
-    "numpy>=1.6.2",
+    'numpy>=1.6.2',
   ],
 )
